@@ -24,5 +24,4 @@ To set it up:
 2. Fill in your actual database credentials
 3. Save the file and run your app locally
 
-> ⚠️ Never push `config.php` to GitHub — it's excluded using `.gitignore`
 
